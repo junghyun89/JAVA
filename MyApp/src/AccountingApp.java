@@ -1,5 +1,5 @@
 public class AccountingApp {
-    public static void main(String[] args) {
+    public static void main(gString[] args) {
         double valueOfSupply = Double.parseDouble(args[0]);
         double vatRate = 0.1;
         double expenseRate = 0.3;
